@@ -1,9 +1,8 @@
 # cb-dotfiles
 Dotfiles experimentation. Probably won't be very interesting.
 
-Setup info:
-
-
+Guide:
+https://www.youtube.com/watch?v=y6XCebnB9gs&t=301s
 
 
 
